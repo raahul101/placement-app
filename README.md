@@ -15,7 +15,7 @@
 ## Setup
 
 - Run 'npm install' to install required dependencies
-- Run 'node index.js' to run the program
+- Run 'node index.js' to start the program
 
 Environment Variables:
 
