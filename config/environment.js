@@ -1,0 +1,2 @@
+MONGODB_URI = 'YOUR_URI'
+SECRET = placement
